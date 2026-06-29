@@ -1,3 +1,6 @@
+### Diagrama Entidad-Relación (Modelo Estrella - BI)
+
+```mermaid
 erDiagram
     %% Dimensiones
     Dim_Tiempo {
